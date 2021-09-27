@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background: "https://a.rgbimg.com/users/x/xy/xymonau/600/n2UtdJe.jpg";
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.buttons {
+    width: 35%;
+    border-radius: 30px;
+    font-size: 16px;
+}

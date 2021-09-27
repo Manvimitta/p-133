@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+#back {
+    position: fixed;
+    top: 50;
+    right: 10;
+    background-color: black;
+    color: white;
+}
+body {
+    background-size: cover;
+    background-position: center;
+}
+#desk_image {
+    height: 500px;
+    width: 800px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
